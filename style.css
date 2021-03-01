@@ -296,6 +296,10 @@ margin-top: 15px;
 	background:#292b2f; border:1px solid black; box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2); margin: 15px 0; overflow:hidden;
 }
 
+.offer-content{
+	padding:0 20px 10px;
+}
+
 .shape {
 	border-color: rgba(255,255,255,0) #d9534f rgba(255,255,255,0) rgba(255,255,255,0);
 }
@@ -334,6 +338,4 @@ margin-top: 15px;
 	-webkit-transform:rotate(30deg); /* Safari and Chrome */
 	transform:rotate(30deg);
 }	
-.offer-content{
-	padding:0 20px 10px;
-}
+
